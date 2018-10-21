@@ -1,6 +1,7 @@
 {
   "name": "electro-angular7",
   "version": "0.0.0",
+  "main": "main.js",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
