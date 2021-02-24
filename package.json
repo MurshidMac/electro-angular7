@@ -10,7 +10,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "electron-build": "ng build --prod",
-    "electron": "electron ."
+    "electron": "electron .",
+    "dev-electron": "nodemon main.js"
   },
   "private": true,
   "dependencies": {
